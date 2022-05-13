@@ -1,0 +1,2 @@
+В4
+H(T1;T2;T3) = X1[A]W1[A]S2[D]R2[D]X3[A]-Wait X1[D]-WaitS2[B]R2[B]S3[B]R3[B] X2[D]-WaitX3[D]-Wait
